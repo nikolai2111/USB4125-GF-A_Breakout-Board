@@ -1,0 +1,15 @@
+{
+    "layout": {
+        "rows": "5",
+        "cols": "4"
+    },
+    "tabs": {
+        "type": "full"
+    },
+    "cuts": {
+        "type": "vcuts"
+    },
+    "page": {
+        "posy": "50mm"
+    }
+}
